@@ -48,12 +48,12 @@ This project is licensed under the MIT License.
 # Screenshots
 <div style="display: flex; flex-wrap: wrap;">
 <img src="https://raw.githubusercontent.com/DavidManga254/gamify-game-app/main/screenshots/Screenshot_1679165343.png" alt="Home Screen" width="300">
-<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165360.png" alt="Home Screen" width="300">
-<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165393.png" alt="Game Details" width="300">
-<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165412.png" alt="Game Details" width="300">
-<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165816.png" alt="Favourites" width="300">
-<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165830.png" alt="Search Screen" width="300">
-<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165936.png" alt="Search Results" width="300">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165360.png" alt="Home Screen" width="300" margin-right="20">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165393.png" alt="Game Details" width="300" margin-right="20">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165412.png" alt="Game Details" width="300" margin-right="20">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165816.png" alt="Favourites" width="300" margin-right="20">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165830.png" alt="Search Screen" width="300" margin-right="20">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165936.png" alt="Search Results" width="300" margin-right="20">
 </div>
 
 
