@@ -26,6 +26,7 @@ A mobile app that fetches games from the IGDB API and displays them in the app. 
 *3.Run the app:*
 
 `npm start`
+
 This will open the Expo developer tools in your browser. From there, you can run the app on an iOS or Android simulator, or on a physical device using the Expo app.
 
 # Usage
@@ -45,6 +46,7 @@ This project is licensed under the MIT License.
 
 
 # Screenshots
+<div style="display: flex; flex-wrap: wrap;">
 <img src="https://raw.githubusercontent.com/DavidManga254/gamify-game-app/main/screenshots/Screenshot_1679165343.png" alt="Home Screen" width="300">
 <img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165360.png" alt="Home Screen" width="300">
 <img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165393.png" alt="Game Details" width="300">
@@ -52,6 +54,7 @@ This project is licensed under the MIT License.
 <img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165816.png" alt="Favourites" width="300">
 <img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165830.png" alt="Search Screen" width="300">
 <img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165936.png" alt="Search Results" width="300">
+</div>
 
 
 IGDB Explorer is released under the MIT License.
