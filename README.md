@@ -45,7 +45,13 @@ This project is licensed under the MIT License.
 
 
 # Screenshots
-![Home Screen](https://raw.githubusercontent.com/DavidManga254/gamify-game-app/main/screenshots/Screenshot_1679165343.png)
+<img src="https://raw.githubusercontent.com/DavidManga254/gamify-game-app/main/screenshots/Screenshot_1679165343.png" alt="Home Screen" width="200">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165360.png" alt="Home Screen" width="200">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165393.png" alt="Game Details" width="200">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165412.png" alt="Game Details" width="200">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165816.png" alt="Favourites" width="200">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165830.png" alt="Search Screen" width="200">
+<img src="https://github.com/DavidManga254/gamify-game-app/raw/main/screenshots/Screenshot_1679165936.png" alt="Search Results" width="200">
 
 
 IGDB Explorer is released under the MIT License.
