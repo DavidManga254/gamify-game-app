@@ -3,44 +3,52 @@ A mobile app that fetches games from the IGDB API and displays them in the app. 
 
 # Features
 1.Browse through a list of games fetched from the IGDB API.
+
 2.Search for games using keywords.
+
 3.Save games to favorites for easy access later.
+
 4.View detailed information about each game.
+
 5.View screenshots and trailers for each game.
 
 # Technologies Used
-1.React Native for building the mobile app.
-2.React Navigation for navigation between screens.
-3.AsyncStorage for storing favorites locally on the device.
-4.Expo for running and testing the app on both iOS and Android devices.
+1.**React Native** for building the mobile app.
+2.**React Navigation** for navigation between screens.
+3.**AsyncStorage** for storing favorites locally on the device.
+4.**Expo** for running and testing the app on both iOS and Android devices.
 
 # Installation
-*1.Clone the repository:*
+**1.Clone the repository:**
 
 `git clone https://github.com/DavidManga254/gamify-game-app.git`
 
-*2.Install the dependencies:*
+**2.Install the dependencies:**
 
 `npm install`
 
-*3.Run the app:*
+**3.Run the app:**
 
 `npm start`
 
 This will open the Expo developer tools in your browser. From there, you can run the app on an iOS or Android simulator, or on a physical device using the Expo app.
 
 # Usage
-On the home screen, you can browse through the list of games fetched from the IGDB API. Click on a game to view its details.
-On the search screen, you can search for games using keywords.
-On the favorites screen, you can view and manage your saved games.
-On the game details screen, you can view detailed information about the game.
-To save a game to favorites, click the heart icon on the game details screen.
+On the **Home screen**, you can browse through the list of games fetched from the IGDB API. Click on a game to view its details.
+
+On the **Search screen**, you can search for games using keywords.
+
+On the **Favorites screen**, you can view and manage your saved games.
+
+On the **Game Details screen**, you can view detailed information about the game.
+
+To save a game to favorites, **click the heart icon** on the game details screen.
 
 # Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 License
-This project is licensed under the MIT License.
+This project is licensed under the **MIT License**.
 
 
 
@@ -59,8 +67,8 @@ This project is licensed under the MIT License.
 
 IGDB Explorer is released under the MIT License.
 
-Contributors
-IGDB Explorer is maintained by John Doe. Contributions and pull requests are welcome!
+# Contributors 
+Contributions and pull requests are welcome!
 
 
 
